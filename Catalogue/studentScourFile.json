@@ -1,0 +1,11 @@
+[ {
+  "examId" : null,
+  "name" : null,
+  "type" : null,
+  "dateCreated" : null,
+  "numberOfQuestions" : null
+}, [ {
+  "student" : null,
+  "scour" : 1,
+  "dateTaken" : null
+} ] ]

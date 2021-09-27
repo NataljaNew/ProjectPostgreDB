@@ -1,0 +1,16 @@
+[ {
+  "examId" : "777",
+  "name" : "oop",
+  "type" : "test",
+  "dateCreated" : "2021-09-27",
+  "numberOfQuestions" : 3
+}, [ {
+  "answerNr" : 0,
+  "answer_text" : "a"
+}, {
+  "answerNr" : 1,
+  "answer_text" : "b"
+}, {
+  "answerNr" : 2,
+  "answer_text" : "c"
+} ] ]
